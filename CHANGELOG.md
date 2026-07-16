@@ -1,3 +1,10 @@
+# [3.26.0](https://github.com/IBM/python-sdk-core/compare/v3.25.0...v3.26.0) (2026-07-16)
+
+
+### Features
+
+* **auth:** add new IAM profile selector to VPC Instance Auth ([#235](https://github.com/IBM/python-sdk-core/issues/235)) ([c966a49](https://github.com/IBM/python-sdk-core/commit/c966a4946dbc4e6fcd4040ae0bb66f8887ea13e3))
+
 # [3.25.0](https://github.com/IBM/python-sdk-core/compare/v3.24.4...v3.25.0) (2026-06-19)
 
 
